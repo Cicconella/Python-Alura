@@ -1,0 +1,5 @@
+elefante
+cavalo
+golfinho
+cachorro
+tartaruga
